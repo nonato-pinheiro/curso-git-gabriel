@@ -1,2 +1,2 @@
 este é o projeto para aprender git
-este é o segundo passo
+este é o segundo paço
